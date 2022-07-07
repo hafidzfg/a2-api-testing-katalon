@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Get a Post</name>
+   <name>GET a Post</name>
    <tag></tag>
    <elementGuidId>a762b2a5-6a90-4955-b8f5-4a67a8201334</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>

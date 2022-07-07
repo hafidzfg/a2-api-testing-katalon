@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Get an Album</name>
+   <name>GET an Album</name>
    <tag></tag>
    <elementGuidId>35bf3471-42ff-4015-9c01-bf90061543d0</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
