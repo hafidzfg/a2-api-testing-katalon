@@ -54,15 +54,6 @@ WS.verifyResponseStatusCode(response, 200)
 
 assertThat(response.getStatusCode()).isEqualTo(200)
 
-assertThat(response.getResponseText()).contains('')
-WS.verifyResponseStatusCode(response, 201)
-
-assertThat(response.getStatusCode()).isEqualTo(201)
-
-WS.verifyElementPropertyValue(response, 'albumId', 67)
-WS.verifyElementPropertyValue(response, 'title', 'Supersemar')
-WS.verifyElementPropertyValue(response, 'url', 'https://i.kym-cdn.com/entries/icons/original/000/034/946/Metal-Gear-Rising-Senator-Armstrong.jpg')
-WS.verifyElementPropertyValue(response, 'thumbnailUrl', 'https://static.wikia.nocookie.net/firefriendly/images/a/a8/Armstrong.png/revision/latest?cb=20201109022859')
-WS.verifyElementPropertyValue(response, 'id', 5001)</verificationScript>
+assertThat(response.getResponseText()).contains('')</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>
