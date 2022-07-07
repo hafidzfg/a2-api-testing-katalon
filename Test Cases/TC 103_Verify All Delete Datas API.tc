@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 103_Verify All Delete Datas API</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fabc95e9-beae-4cc6-b8db-68aa35222ee0</testCaseGuid>
+</TestCaseEntity>

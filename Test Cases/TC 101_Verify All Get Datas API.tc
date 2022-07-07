@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 101_Verify All Get Datas API</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea1a9f44-64bf-452c-bb4d-8041ce7d5c5d</testCaseGuid>
+</TestCaseEntity>
