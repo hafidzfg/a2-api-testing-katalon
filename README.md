@@ -10,5 +10,5 @@ Terdapat 3 test case yang dibuat: <br>
 
 Dibuat pula sebuah test suite `TS Verify All APIs` yang mencakup ketiga test case di atas.
 
-Secara garis besar, terdapat 6 resources yang dites pada project ini, yakni:
+Secara garis besar, terdapat 6 resources yang dites pada project ini, yakni: <br>
 `/posts` `/comments` `/albums` `/users` `/photos` `/todos`
