@@ -4,4 +4,44 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>98</initValue>
+      <name>userId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Supersemar'</initValue>
+      <name>title</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1. Mengambil segala tindakan yang dianggap perlu untuk terjaminnya keamanan dan ketenangan serta kestabilan jalannya pemerintahan dan jalannya Revolusi, serta menjamin keselamatan pribadi dan kewibawaan Pimpinan Presiden/Panglima Tertinggi/Pemimpin Besar Revolusi/Mandataris MPRS, demi untuk keutuhan Bangsa dan Negara Republik Indonesia, dan melaksanakan dengan pasti segala ajaran Pemimpin Besar Revolusi.'</initValue>
+      <name>postBody</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'supreme general'</initValue>
+      <name>name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sg.1998@outlook.com'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'67'</initValue>
+      <name>albumId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://i.kym-cdn.com/entries/icons/original/000/034/946/Metal-Gear-Rising-Senator-Armstrong.jpg'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://static.wikia.nocookie.net/firefriendly/images/a/a8/Armstrong.png/revision/latest?cb=20201109022859'</initValue>
+      <name>thumbnailUrl</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
