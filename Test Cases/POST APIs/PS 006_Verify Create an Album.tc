@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PS 006_Verify Create an Album</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb344d3a-66d0-465c-877e-4274778d3cab</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7e68c04e-d754-42b6-ae0c-e5501c866741</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/POST Album API Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>7e68c04e-d754-42b6-ae0c-e5501c866741</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>userId</value>
+      <variableId>9253d26d-b63e-4a76-9316-0242d7dd5fa3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7e68c04e-d754-42b6-ae0c-e5501c866741</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>title</value>
+      <variableId>f2580370-51fe-4375-bad4-1496631f083e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7e68c04e-d754-42b6-ae0c-e5501c866741</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>id</value>
+      <variableId>3e0107fa-1d1d-4abb-8159-86e4a027a924</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>9253d26d-b63e-4a76-9316-0242d7dd5fa3</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f2580370-51fe-4375-bad4-1496631f083e</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>3e0107fa-1d1d-4abb-8159-86e4a027a924</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>
