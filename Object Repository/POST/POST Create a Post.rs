@@ -10,7 +10,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;title\&quot;: \&quot;${GlobalVariable.title}\&quot;,\n  \&quot;body\&quot;: \&quot;${GlobalVariable.postBody}\&quot;,\n  \&quot;userId\&quot;: ${GlobalVariable.userId}\n}&quot;,
+  &quot;text&quot;: &quot;{\n  \&quot;title\&quot;: \&quot;${title}\&quot;,\n  \&quot;body\&quot;: \&quot;${body}\&quot;,\n  \&quot;userId\&quot;: ${userId}\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>

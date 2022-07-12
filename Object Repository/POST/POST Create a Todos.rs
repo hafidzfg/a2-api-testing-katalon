@@ -10,7 +10,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;userId\&quot;: ${GlobalVariable.userId},\n  \&quot;title\&quot;:  \&quot;${GlobalVariable.title}\&quot;,\n  \&quot;completed\&quot;: true\n}&quot;,
+  &quot;text&quot;: &quot;{\n  \&quot;userId\&quot;: ${userId},\n  \&quot;title\&quot;:  \&quot;${title}\&quot;,\n  \&quot;completed\&quot;: ${completed}\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>

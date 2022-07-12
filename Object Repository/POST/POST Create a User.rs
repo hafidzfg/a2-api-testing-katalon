@@ -10,7 +10,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n    \&quot;name\&quot;: \&quot;Leanne Graham\&quot;,\n    \&quot;username\&quot;: \&quot;Bret\&quot;,\n    \&quot;email\&quot;: \&quot;Sincere@april.biz\&quot;,\n    \&quot;address\&quot;: {\n      \&quot;street\&quot;: \&quot;Kulas Light\&quot;,\n      \&quot;suite\&quot;: \&quot;Apt. 556\&quot;,\n      \&quot;city\&quot;: \&quot;Gwenborough\&quot;,\n      \&quot;zipcode\&quot;: \&quot;92998-3874\&quot;,\n      \&quot;geo\&quot;: {\n        \&quot;lat\&quot;: \&quot;-37.3159\&quot;,\n        \&quot;lng\&quot;: \&quot;81.1496\&quot;\n      }\n    }\n}&quot;,
+  &quot;text&quot;: &quot;{\n    \&quot;name\&quot;: \&quot;${name}\&quot;,\n    \&quot;username\&quot;: \&quot;${username}\&quot;,\n    \&quot;email\&quot;: \&quot;${email}\&quot;,\n    \&quot;address\&quot;: {\n      \&quot;street\&quot;: \&quot;${street}\&quot;,\n      \&quot;suite\&quot;: \&quot;${suite}\&quot;,\n      \&quot;city\&quot;: \&quot;${city}\&quot;,\n      \&quot;zipcode\&quot;: \&quot;${zipcode}\&quot;,\n      \&quot;geo\&quot;: {\n        \&quot;lat\&quot;: \&quot;${lat}\&quot;,\n        \&quot;lng\&quot;: \&quot;${lng}\&quot;\n      }\n    }\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>

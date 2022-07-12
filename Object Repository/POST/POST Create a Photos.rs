@@ -10,7 +10,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n\t\&quot;albumId\&quot;: ${GlobalVariable.albumId},\n    \&quot;title\&quot;: \&quot;${GlobalVariable.title}\&quot;,\n    \&quot;url\&quot;: \&quot;${GlobalVariable.url}\&quot;,\n    \&quot;thumbnailUrl\&quot;: \&quot;${GlobalVariable.thumbnailUrl}\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{\n\t\&quot;albumId\&quot;: ${albumId},\n    \&quot;title\&quot;: \&quot;${title}\&quot;,\n    \&quot;url\&quot;: \&quot;${url}\&quot;,\n    \&quot;thumbnailUrl\&quot;: \&quot;${thumbnailUrl}\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
