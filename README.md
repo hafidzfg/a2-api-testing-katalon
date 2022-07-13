@@ -23,10 +23,10 @@ Semua verifikasi dilakukan di level object, sehingga test case hanya menjalankan
 
 Terdapat pula 6 test case yang melakukan request dan verifikasi POST APIs dengan menerapkan data driven test, <br>
 Tiap test case berikut melakukan iterasi sebanyak 10x sesuai dengan jumlah data yang disediakan.
-- PS 001 Verify Create a Comment API <br>
-- PS 002 Verify Create a Photo API <br>
-- PS 003 Verify Create a Post API <br>
-- PS 004 Verify Create a Todos API <br>
-- PS 005 Verify Create a User API <br>
-- PS 006 Verify Create an Album API <br>
+- `PS 001` Verify Create a Comment API <br>
+- `PS 002` Verify Create a Photo API <br>
+- `PS 003` Verify Create a Post API <br>
+- `PS 004` Verify Create a Todos API <br>
+- `PS 005` Verify Create a User API <br>
+- `PS 006` Verify Create an Album API <br>
 
